@@ -40,7 +40,7 @@
 	padding: 5px;
 	border: none;
 	border-radius: 3px;
-	background-color: rgba(108, 105, 105, 0.836);
+	background-color: rgb(210, 194, 194);
 	transition: background-color 250ms ease-in-out, color 250ms ease-in-out;
 }
 .addBtn:hover {
